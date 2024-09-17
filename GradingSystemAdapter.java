@@ -1,4 +1,4 @@
-public class GradingSystemAdapter implements ManageSystem {
+public class GradingSystemAdapter implements SchoolManagementApp {
     private GradingSystem gradingSystem;
 
     public GradingSystemAdapter(GradingSystem gradingSystem){

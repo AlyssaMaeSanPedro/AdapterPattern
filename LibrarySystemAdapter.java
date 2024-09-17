@@ -1,4 +1,4 @@
-public class LibrarySystemAdapter implements ManageSystem {
+public class LibrarySystemAdapter implements SchoolManagementApp {
     private LibrarySystem librarySystem;
 
     public LibrarySystemAdapter(LibrarySystem librarySystem){
